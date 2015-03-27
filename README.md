@@ -1,7 +1,7 @@
 # GAE_Python_Course
 A short course to introduce Google App Engine - Python
 
-EX01_HelloWorld
-EX02_StaticFile
-EX03_GoogleUserService
-EX04_NDBDataStore
+1. EX01_HelloWorld
+2. EX02_StaticFile
+3. EX03_GoogleUserService
+4. EX04_NDBDataStore
