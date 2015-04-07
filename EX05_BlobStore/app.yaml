@@ -5,5 +5,8 @@ api_version: 1
 threadsafe: true
 
 handlers:
+- url: /myS3/.*
+  script: myS3.app
+
 - url: /.*
-  script: note.app
+  script: main.app
