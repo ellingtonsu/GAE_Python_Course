@@ -8,5 +8,8 @@ handlers:
 - url: /images
   static_dir: images
 
+- url: /javascripts
+  static_dir: javascripts
+  
 - url: /.*
   script: helloapple.app
